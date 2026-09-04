@@ -14,4 +14,5 @@ this is a beta script if you find any issues please report at issues tab
 -x button 
 
 # Script 
-Speed Setter 1.0 Latest loadstring(game:HttpGet("https://raw.githubusercontent.com/MirkoScripts/Speed-Setter/refs/heads/main/SpeedSetter_1.0.lua"))()
+Speed Setter 1.0 Latest : loadstring(game:HttpGet("https://raw.githubusercontent.com/MirkoScripts/Speed-Setter/refs/heads/main/SpeedSetter_1.0.lua"))()
+Speed setter 2.0 BETA : only for devs and testers 
